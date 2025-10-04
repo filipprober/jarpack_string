@@ -1,0 +1,23 @@
+{
+  "name": "jarpack/string",
+  "description": "A sample Jarpack string library.",
+  "version": "1.0.0",
+  "type": "library",
+  "language": "kotlin",
+  "license": "MIT",
+  "homepage": "https://jarpack.com",
+  "keywords": [
+    "jarpack",
+    "library"
+  ],
+  "authors": [
+    {
+      "name": "Filip Prober",
+      "email": "filip.prober@condition.at"
+    }
+  ],
+  "require": {
+    "jarpack/example": "1.0.0"
+  },
+  "repositories": []
+}
