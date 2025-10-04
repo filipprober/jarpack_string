@@ -1,6 +1,6 @@
 {
-  "name": "jarpack/string",
-  "description": "A sample Jarpack string library.",
+  "name": "jarpack/numbers",
+  "description": "A sample Jarpack numbers library.",
   "version": "1.0.0",
   "type": "library",
   "language": "kotlin",
@@ -16,8 +16,6 @@
       "email": "filip.prober@condition.at"
     }
   ],
-  "require": {
-    "jarpack/numbers": "^1.0"
-  },
+  "require": {},
   "repositories": []
 }
